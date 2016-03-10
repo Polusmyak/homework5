@@ -1,0 +1,166 @@
+3{
+  margin: 0;
+  padding: 0;
+ }
+
+body{
+  background: white;
+  width: 100%;
+    } 
+
+.outline {
+  width: 1215px;
+  height: 1030px;
+  margin: 0 auto;
+	       }
+
+.header {
+  background: #075191;
+  width: 1215px;
+  height: 30px;
+  display: inline-block;
+  color: #60b5ed;
+  padding: none; 
+         }
+.header ul {
+  margin-left: 490px; 
+  height: 30px; 
+  width: 100%;
+           }
+.header li {
+  width: 100px; text-align: center; 
+  font-size: 14px; 
+  font-family: Tahoma;
+           }
+.header ul li {
+  padding: none; 
+  margin-top: -15px;
+              }              
+.header li:hover {
+  background: #4eabda; 
+  color: #ffffff;
+                 }
+.header li:last-child {
+  width: 180px; 
+  height: 30px;
+                      }
+.header li:first-child {width: 90px; height: 30px;}
+.header li:nth-child(6) {width: 130px; border-left: 1px solid #56a2dc; height: 30px; color: }
+.header li:nth-child(2) {width: 70px; height: 30px;}
+.header li:nth-child(3) {width: 70px; height: 30px;}
+.header li:nth-child(4) {width: 70px; height: 30px;}
+.header li:nth-child(5) {width: 70px; height: 30px;}
+.toplist li i {color: white; }
+
+
+.content { 
+  background-image: url(headpiece.jpg);
+  background-repeat: no-repeat; 
+  width: 1215px;
+  height: 1030px;
+  position: relative;
+  margin-bottom: 30px;
+         }
+
+.allinfo {
+  color: white; 
+  height: 75px; width: 100%; 
+  font-size: 25px;
+  background-color: rgba(0, 0, 0, 0.6);
+  width: 550px;
+  height: 610px;
+  position: absolute; left: 50%;
+  margin-left: -250px;
+  top: 50%; 
+  margin-top: -300px;
+      }
+
+.cadastra {
+  text-align: center;
+  border-bottom: 3px solid #bbc3b4;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+          }
+.test { 
+  width: 262px;
+  height: 400px;
+  margin: 0 auto;
+  margin-top: 70px;
+      }
+
+.facebook button {
+  border: none; 
+  border-radius: 5px; 
+  width: 265px; 
+  height: 33px; 
+  margin-left: 150px;
+  background-image: url(facebook.jpg);
+  margin: 0 auto;
+  margin-top: 40px; 
+                 }
+.OU {
+  height: 100px; 
+  width: 200px; 
+  font-size: 14px; 
+  color: #999999; 
+  margin: 0 auto;
+margin-top: 100px;
+
+     }
+fieldset {border: 2px solid  #666666; border-left: none; border-right: none; border-bottom: none; width: 265px; margin: 0 auto; margin-left: -50px;}
+legend {text-align: center; margin: 0 auto; width: 25px; border-top: 20px; }
+
+
+
+input {
+  background-color: rgba(15, 15, 15, 1);
+  height: 37px;
+  color: #a7a7a7;
+  border: none;
+  text-indent: 20px;
+  font-size: 14px;
+      }
+      input:focus {background: #1b5288;
+      
+      }
+     ul li { 
+  display: inline-block;
+  padding-top: 15px;
+           }
+.menu {margin-left: 15px;}
+
+.checkbox {
+  font-size: 14px; 
+  color: #b5b5b3; 
+  margin-top: 13px; 
+          }
+
+.checkbox p {
+  margin-left: 20px; 
+  margin-top: -28px;
+            }
+
+.create button {
+  background: #48a3d7;
+  width: 140px; 
+  height: 35px; 
+  color: white; 
+  border: 1px solid  #67c6e6; 
+  border-radius: 4px; 
+  margin-top: 25px; 
+  margin-left: 55px;
+              }
+
+.textunder {
+  color: #b5b5b3;
+  font-size: 11px;
+  width: 295px;
+  margin-top: 15px;
+           }
+
+.textunder p {
+  text-align: center;
+             }
+
+   
